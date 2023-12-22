@@ -1,5 +1,7 @@
 # nunes_sports
 
+Acesse para testar o projeto: https://kassiosantos.github.io/nunes_sports/
+
 ## Project setup
 ```
 npm install
